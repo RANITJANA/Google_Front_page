@@ -1,0 +1,148 @@
+.container {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top {
+    text-align: right;
+    font-size: 11.5px;
+    font-weight: 0.5em;
+}
+
+#beforeSign {
+    background-color: rgba(32, 33, 36, 1);
+    border-radius: 10em;
+    border: none;
+}
+
+#beforeSign:hover {
+    background-color: rgb(65, 65, 73);
+    cursor: pointer;
+}
+
+#beforeSign:active {
+    background-color: rgba(32, 33, 36, 1);
+}
+
+.signin {
+    background-color: rgb(93, 126, 236);
+    color: black;
+    width: 95px;
+    height: 38px;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.signin:hover {
+    background-color: rgb(110, 139, 234);
+}
+
+.signin:active {
+    background-color: rgb(93, 126, 236);
+}
+
+#gmail,
+#images {
+    color: white;
+    text-decoration: none;
+}
+
+#gmail:hover,
+#images:hover {
+    text-decoration: underline;
+}
+
+.name {
+    color: white;
+    font-size: 95px;
+    width: 342px;
+    margin: 0px auto;
+    margin-top: -0.8em;
+}
+
+#bar {
+    background-color: rgba(32, 33, 36, 1);
+    width: 40em;
+    height: 3.2em;
+    border: 0.1px solid rgb(101, 101, 101);
+    border-radius: 5em;
+    padding-left: 30px;
+}
+
+#search {
+    width: 567px;
+    margin: 0px auto;
+    margin-top: -4.2em;
+}
+
+#bar:hover {
+    background-color: rgb(53, 54, 57);
+    border: none;
+}
+
+#bar:active {
+    background-color: rgb(43, 44, 47);
+    border: none;
+}
+
+.after_bar {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    width: 271px;
+    margin: 25px auto;
+}
+
+.nbar {
+    background-color: rgb(53, 54, 57);
+    width: 9em;
+    height: 2.8em;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.nbar:hover {
+    border: 1px solid rgb(120, 119, 119);
+    cursor: pointer;
+}
+
+#lang {
+    color: rgb(192, 189, 189);
+    font-size: 0.8em;
+    width: 529px;
+    margin: 0px auto;
+}
+
+.terms {
+    text-decoration: none;
+    color: rgb(147, 167, 214);
+}
+
+#one:hover,
+#two:hover,
+#three:hover,
+#four:hover,
+#five:hover,
+#six:hover,
+#seven:hover,
+#eight:hover,
+#nine:hover {
+    text-decoration: underline;
+}
+
+.space {
+    font-size: 0.85em;
+    color: rgb(180, 177, 177);
+    padding: 0.5px 30px;
+    border-bottom: 1px solid #3c4043;
+    color: #97b6d4;
+    margin-top: 132px;
+    background-color: #171616;
+}
+.bottom{
+    background-color: #171616;
+    font-size: 10px;
+}
+
